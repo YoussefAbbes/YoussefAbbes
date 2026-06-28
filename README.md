@@ -182,36 +182,6 @@ Modern Flutter platform connecting university students through
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YoussefAbbes&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p>
-
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
 # 💭 Favorite Quote
 
 > *"The best way to predict the future is to build it."*
